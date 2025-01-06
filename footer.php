@@ -28,10 +28,10 @@
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a href="https://www.facebook.com/mysha.ahamed/"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://github.com/MyshaAhmed"> <i class="fab fa-github"></i> github </a>
+         <a href="https://www.instagram.com/a_mysha/"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="www.linkedin.com/in/myshaahmed"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
    </div>
